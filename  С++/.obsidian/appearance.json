@@ -1,7 +1,8 @@
 {
-  "theme": "system",
-  "cssTheme": "Obuntu",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "ok"
-  ]
+  ],
+  "accentColor": "#68365e"
 }

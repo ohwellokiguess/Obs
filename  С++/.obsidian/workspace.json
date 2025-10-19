@@ -4,39 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "ab34a288d5a7bfb1",
+        "id": "3dd7f057530c4854",
         "type": "tabs",
+        "dimension": 49.375,
         "children": [
           {
-            "id": "6c70e755793d1b8d",
+            "id": "68962126fd0b3651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+, -, ++, --.md",
+                "file": "CLUSTERS/Спринт 3-cluster/Шаблоны.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+, -, ++, --"
+              "title": "Шаблоны"
             }
           },
           {
-            "id": "425e42e861adc375",
+            "id": "0bcfc435fc7107f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Спринт 3.md",
+                "file": "CLUSTERS/Спринт 3-cluster/Шаблоны/function template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Спринт 3"
+              "title": "function template"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "baca45fde631fe6f",
+        "type": "tabs",
+        "dimension": 50.625,
+        "children": [
+          {
+            "id": "5692c5c31a7e6233",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 275.5
   },
   "right": {
     "id": "c72075f10841f8a7",
@@ -181,30 +199,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "smart-vault-visualizer:Open smart connections visualizer": false,
+      "cluster:Create new cluster": false
     }
   },
-  "active": "425e42e861adc375",
+  "active": "5692c5c31a7e6233",
   "lastOpenFiles": [
-    "Конструктор.md",
-    "+, -, ++, --.md",
-    "iostream.md",
-    "Спринт 2.md",
-    "Класс.md",
-    "Перегрузка операций.md",
-    "Спринт 3.md",
-    "vector.md",
-    "pair.md",
-    "Спринт 1.md",
-    "struct.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Untitled.md",
-    "Untitled",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны/function template.md",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны/operation template.md",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны.md",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны/class template.md",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны/function template",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/class Rational.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций.md",
+    "CLUSTERS/Спринт 2-cluster.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/+, -, ++, --.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/== <=>.md",
+    "CLUSTERS/Спринт 1-cluster.md",
+    "CLUSTERS/Спринт 1-cluster/vector.md",
     "Практикум.md",
-    "First link.md",
-    "dddddd.md",
-    "Welcome.md",
-    "2025-10-13.md"
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/=.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/tie.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/iostream.md",
+    "CLUSTERS/Спринт 2-cluster/Класс/Конструктор.md",
+    "CLUSTERS/Спринт 2-cluster/Класс/struct.md",
+    "CLUSTERS/Спринт 2-cluster/Класс.md",
+    "CLUSTERS/Спринт 3-cluster/Лямбда функции.md",
+    "CLUSTERS/Спринт 3-cluster.md",
+    "Спринт 1.md",
+    "Спринт 3.md",
+    "CLUSTERS/Спринт 1-cluster/м.md",
+    "CLUSTERS/Спринт 1-cluster",
+    "Спринт 2.md",
+    "CLUSTERS/Спринт 2-cluster/Класс/п.md",
+    "CLUSTERS/Спринт 2-cluster/с.md",
+    "CLUSTERS/Спринт 2-cluster/Класс",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций",
+    "CLUSTERS/Спринт 2-cluster",
+    "CLUSTERS/Спринт 3-cluster",
+    "CLUSTERS",
+    "ORPHANS",
+    "Untitled.canvas",
+    "Untitled.base"
   ]
 }

@@ -16,5 +16,23 @@
       ],
       "key": "G"
     }
+  ],
+  "smart-vault-visualizer:open-smart-vault-visualizer-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "smart-vault-visualizer:open-center-select-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

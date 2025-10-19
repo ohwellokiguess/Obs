@@ -1,0 +1,9 @@
+{
+  "foldProperties": true,
+  "firstPageClusters": true,
+  "cardStyle": false,
+  "restBgClusters": true,
+  "restBgOrphans": true,
+  "buttonsLineContainerBG_clusters": "var(--background-button-container-clusters)",
+  "buttonsLineContainerBG_orphans": "var(--background-button-container-orphans)"
+}

@@ -33,7 +33,7 @@ inline std::istream& operator>>(std::istream& is, Rational& r){
 
 	if (!(is >> std::ws >> delimeter)) {
 	//std::ws стирает пробелы до первого отличного символа.
-		is.clear();//Снятие флаг ошибки потока методом `clear`.
+		is.clear();//Снятие флага ошибки потока методом `clear`.
 		return is;
 	}
 

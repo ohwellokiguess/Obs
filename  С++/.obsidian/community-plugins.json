@@ -1,3 +1,7 @@
 [
-  "custom-node-size"
+  "custom-node-size",
+  "smart-vault-visualizer",
+  "cluster",
+  "code-styler",
+  "persistent-graph"
 ]

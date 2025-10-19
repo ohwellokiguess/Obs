@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "part",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "section",
+      "color": {
+        "a": 1,
+        "rgb": 13404160
+      }
+    },
+    {
+      "query": "theme",
+      "color": {
+        "a": 1,
+        "rgb": 12564534
+      }
+    },
+    {
+      "query": "subtheme",
+      "color": {
+        "a": 1,
+        "rgb": 4309825
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 0,
+  "linkStrength": 0.315104166666667,
+  "linkDistance": 108,
+  "scale": 1.9158799779509534,
+  "close": true
+}

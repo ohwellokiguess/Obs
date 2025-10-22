@@ -8,31 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "part",
+      "query": "tag:#sprint  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14727762
       }
     },
     {
-      "query": "section",
+      "query": "tag:#theme  ",
       "color": {
         "a": 1,
-        "rgb": 13404160
+        "rgb": 5402336
       }
     },
     {
-      "query": "theme",
+      "query": "tag:#subtheme",
       "color": {
         "a": 1,
-        "rgb": 12564534
+        "rgb": 11392604
       }
     },
     {
-      "query": "subtheme",
+      "query": "tag:# important",
       "color": {
         "a": 1,
-        "rgb": 4309825
+        "rgb": 16711680
       }
     }
   ],
@@ -43,9 +43,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 3.80208333333333,
-  "linkStrength": 0.575520833333333,
-  "linkDistance": 108,
-  "scale": 1.2141312360491723,
+  "repelStrength": 8.02083333333333,
+  "linkStrength": 0.869791666666667,
+  "linkDistance": 118,
+  "scale": 1.0499443105989814,
   "close": true
 }

@@ -1,0 +1,50 @@
+{
+  "nodePositions": [
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster.md",
+      "x": 109.00489044189453,
+      "y": 182.32955932617188
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands.md",
+      "x": 189.5599822998047,
+      "y": -71.85877990722656
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/touch.md",
+      "x": 432.7673034667969,
+      "y": 31.20364761352539
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/cat.md",
+      "x": 268.6809997558594,
+      "y": 182.81723022460938
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/cp.md",
+      "x": 342.1571044921875,
+      "y": -287.25030517578125
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/echo.md",
+      "x": -76.79296875,
+      "y": -52.09389877319336
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/rm.md",
+      "x": 117.69659423828125,
+      "y": -326.8059387207031
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/mv.md",
+      "x": -21.65297508239746,
+      "y": 93.31102752685547
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/ls.md",
+      "x": -42.457393646240234,
+      "y": -205.0023651123047
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

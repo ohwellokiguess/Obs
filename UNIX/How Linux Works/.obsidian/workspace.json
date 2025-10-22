@@ -1,90 +1,76 @@
 {
   "main": {
-    "id": "11c4d11320c6bf7f",
+    "id": "43366f0b16bb02c4",
     "type": "split",
     "children": [
       {
-        "id": "595e3faa022ec78a",
+        "id": "15c9f36a6e9cdc49",
         "type": "tabs",
         "children": [
           {
-            "id": "43f36987e22ee84a",
+            "id": "653bee7d660d10db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/coms 1.2-cluster/ls.md",
+                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ls"
+              "title": "cd"
             }
           },
           {
-            "id": "2f2442e3a2ee6aa1",
+            "id": "b376b1f236aea4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/coms 1.2-cluster/ls.md",
+                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ls"
+              "title": "mkdir"
             }
           },
           {
-            "id": "b5bcfa0170523042",
+            "id": "4763a526fc308076",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/coms 1.3-cluster.md",
+                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coms 1.3-cluster"
+              "title": "echo"
             }
           },
           {
-            "id": "9e0fa03b10eacb18",
+            "id": "54f2005089927019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/coms 1.3-cluster/file.md",
+                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file"
+              "title": "Intermediate commands"
             }
           },
           {
-            "id": "764b2be5cc559f95",
+            "id": "233d31befb2d89cf",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "05234134aeee46d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLUSTERS/coms 1.2-cluster/ls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ls"
             }
           }
         ],
@@ -94,15 +80,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "07724752c8fda646",
+    "id": "43ae740bac6e94b2",
     "type": "split",
     "children": [
       {
-        "id": "bcdf12e8237d06ed",
+        "id": "7f5459795796c642",
         "type": "tabs",
         "children": [
           {
-            "id": "772054b08bed3a49",
+            "id": "056d5bc0500a8336",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -115,7 +101,7 @@
             }
           },
           {
-            "id": "011d79f40095aefc",
+            "id": "c18a821e7884f36e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -132,7 +118,7 @@
             }
           },
           {
-            "id": "a22347da5bcf2459",
+            "id": "2f70807d89b99aaf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -145,22 +131,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 300
   },
   "right": {
-    "id": "c861f945456c4818",
+    "id": "c0fdb8fa3ae971b4",
     "type": "split",
     "children": [
       {
-        "id": "0e88107ed9f39fa8",
+        "id": "ae005cf8a414fc84",
         "type": "tabs",
         "children": [
           {
-            "id": "d786b7058d85c828",
+            "id": "dcb775e9801785e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLUSTERS/Chapter 1-cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,24 +157,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 1-cluster"
             }
           },
           {
-            "id": "e0166220aa10095a",
+            "id": "6874e272711589a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLUSTERS/Chapter 1-cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Chapter 1-cluster"
             }
           },
           {
-            "id": "5cc8e685bb1402e3",
+            "id": "b5e697a52cb2292b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -202,17 +190,18 @@
             }
           },
           {
-            "id": "01cfe1987000c647",
+            "id": "f0306baa080b080d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLUSTERS/Chapter 1-cluster.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 1-cluster"
             }
           }
         ]
@@ -231,47 +220,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "cluster:Create new cluster": false,
-      "3d-graph:3D Graph": false
+      "cluster:Create new cluster": false
     }
   },
-  "active": "764b2be5cc559f95",
+  "active": "233d31befb2d89cf",
   "lastOpenFiles": [
-    "CLUSTERS/coms 1.1-cluster/cal.md",
-    "CLUSTERS/coms 1.3-cluster/less.md",
-    "CLUSTERS/coms 1.2-cluster/ls.md",
-    "CLUSTERS/coms 1.3-cluster/file.md",
-    "CLUSTERS/coms 1.3-cluster.md",
-    "CLUSTERS/coms 1.2-cluster/ls/ls options.md",
-    "CLUSTERS/coms 1.3-cluster/command template.md",
-    "CLUSTERS/coms 1.2-cluster/cd.md",
-    "CLUSTERS/coms 1.2-cluster/ls",
-    "3 Exploring the System.md",
-    "CLUSTERS/coms 1.3-cluster/d.md",
-    "CLUSTERS/coms 1.3-cluster",
-    "commands 1.3.md",
-    "1 What is the shell?.md",
-    "CLUSTERS/coms 1.2-cluster.md",
-    "CLUSTERS/coms 1.1-cluster.md",
-    "1.3/commands 1.3.md",
-    "2 Navigation.md",
-    "CLUSTERS/coms 1.2-cluster/pwd.md",
-    "1.2/coms 1/cd.md",
-    "1.2/coms 1/pwd.md",
-    "1.2/coms 1/ls.md",
-    "1.2/coms 1",
-    "1.2",
-    "CLUSTERS/coms 1.2-cluster/d.md",
-    "CLUSTERS/coms 1.2-cluster",
-    "CLUSTERS/coms 1.1-cluster/virtual terminal.md",
-    "CLUSTERS/coms 1.1-cluster/free.md",
-    "CLUSTERS/coms 1-cluster/First-cluster.md",
-    "CLUSTERS/coms 1-cluster/x.md",
-    "CLUSTERS/coms 1.1-cluster/date.md",
-    "CLUSTERS/coms 1.1-cluster",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/ls.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/grep.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cat.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cp.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/mv.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/rm.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/touch.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/rmdir.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands",
+    "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/g.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands",
+    "CLUSTERS/basic commands-cluster.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster",
+    "CLUSTERS/basic commands-cluster/ls.md",
+    "CLUSTERS/basic commands-cluster",
+    "CLUSTERS/Chapter 1 - Basics -cluster.md",
+    "CLUSTERS/basic commands-cluster/s.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/basic commands-cluster",
+    "Pasted image 20251020223119.png",
+    "CLUSTERS/Chapter 1 - Basics -cluster/1.1.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/1.1/1.2.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/1.1",
+    "1.2.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/1.1/cat.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/1.2.md",
+    "CLUSTERS/First-cluster.md",
+    "Welcome.md",
     "CLUSTERS",
-    "ORPHANS",
-    "1.3",
-    "1.2/coms 1.2"
+    "ORPHANS"
   ]
 }

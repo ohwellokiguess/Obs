@@ -1,0 +1,20 @@
+{
+  "persistent-graph:save-node-positions": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-table-generator:create-table-genertator": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+---
+tags:
+  - Chapter-1---Basics--cluster
+parent: "[[CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands|Intermediate commands]]"
+generation: 2
+---
+
+| command | option | argument |                                  |
+| :------ | :----- | :------- | :------------------------------- |
+| sort    |        | *dir*    | sorts files in *dir* by alphabet |
+|         | -n     |          | sorts files by numeric order     |
+|         | -r     |          | reverses order ofsorting         |

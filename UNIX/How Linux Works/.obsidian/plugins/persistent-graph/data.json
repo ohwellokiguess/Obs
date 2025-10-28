@@ -2,48 +2,123 @@
   "nodePositions": [
     {
       "id": "CLUSTERS/Chapter 1 - Basics -cluster.md",
-      "x": 109.00489044189453,
-      "y": 182.32955932617188
+      "x": -814.7748413085938,
+      "y": -89.38189697265625
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands.md",
-      "x": 189.5599822998047,
-      "y": -71.85877990722656
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands.md",
+      "x": -857.871337890625,
+      "y": 624.9339599609375
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/touch.md",
-      "x": 432.7673034667969,
-      "y": 31.20364761352539
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cat.md",
+      "x": -740.254638671875,
+      "y": 771.4138793945312
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/cat.md",
-      "x": 268.6809997558594,
-      "y": 182.81723022460938
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cp.md",
+      "x": -849.9634399414062,
+      "y": 820.031005859375
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/cp.md",
-      "x": 342.1571044921875,
-      "y": -287.25030517578125
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
+      "x": -962.569091796875,
+      "y": 778.561767578125
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/echo.md",
-      "x": -76.79296875,
-      "y": -52.09389877319336
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/ls.md",
+      "x": -698.32373046875,
+      "y": 658.5731811523438
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/rm.md",
-      "x": 117.69659423828125,
-      "y": -326.8059387207031
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/mv.md",
+      "x": -963.5031127929688,
+      "y": 547.8917846679688
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/mv.md",
-      "x": -21.65297508239746,
-      "y": 93.31102752685547
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/rm.md",
+      "x": -775.259033203125,
+      "y": 535.6444091796875
     },
     {
-      "id": "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/ls.md",
-      "x": -42.457393646240234,
-      "y": -205.0023651123047
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/touch.md",
+      "x": -1019.9608764648438,
+      "y": 672.8460083007812
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands.md",
+      "x": -158.46377563476562,
+      "y": -114.13407135009766
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
+      "x": 31.63329315185547,
+      "y": -114.18196105957031
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
+      "x": -52.235530853271484,
+      "y": -6.161466598510742
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/rmdir.md",
+      "x": -46.04990005493164,
+      "y": -226.13052368164062
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
+      "x": -1165.3905029296875,
+      "y": -766.4879150390625
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/grep.md",
+      "x": -1244.551025390625,
+      "y": -946.2532348632812
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/more less.md",
+      "x": -1338.1419677734375,
+      "y": -746.4671020507812
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/pwd.md",
+      "x": -1075.031982421875,
+      "y": -685.1072998046875
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/diff.md",
+      "x": -1334.1217041015625,
+      "y": -866.399169921875
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/file.md",
+      "x": -994.8004150390625,
+      "y": -827.6891479492188
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/find.md",
+      "x": -1125.9622802734375,
+      "y": -997.9974365234375
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/head tail.md",
+      "x": -1246.6241455078125,
+      "y": -653.7925415039062
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/sort.md",
+      "x": -1102.655029296875,
+      "y": -880.2872924804688
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Changing your password and shell.md",
+      "x": -664.0493774414062,
+      "y": -146.17567443847656
+    },
+    {
+      "id": "CLUSTERS/Chapter 1 - Basics -cluster/Changing your password and shell/chsh.md",
+      "x": -545.7794799804688,
+      "y": -203.1852264404297
     }
   ],
   "automaticallyRestoreNodePositions": false

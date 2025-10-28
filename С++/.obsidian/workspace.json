@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/Спринт 3-cluster/Шаблоны/function template.md",
+                "file": "CLUSTERS/Спринт 3-cluster/Лямбда функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "function template"
+              "title": "Лямбда функции"
             }
           },
           {
@@ -183,14 +183,16 @@
   },
   "active": "5692c5c31a7e6233",
   "lastOpenFiles": [
-    "CLUSTERS/Спринт 3-cluster/Шаблоны/class template.md",
+    "CLUSTERS/Спринт 2-cluster/Класс/Конструктор.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/pair.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/== <=>.md",
+    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/+, -, ++, --.md",
     "CLUSTERS/Спринт 3-cluster/Шаблоны/function template.md",
+    "CLUSTERS/Спринт 3-cluster/Шаблоны/class template.md",
     "CLUSTERS/Спринт 3-cluster/Шаблоны/operation template.md",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций.md",
-    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/+, -, ++, --.md",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций/class Rational.md",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций/=.md",
-    "CLUSTERS/Спринт 3-cluster/Перегрузка операций/== <=>.md",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций/iostream.md",
     "CLUSTERS/Спринт 3-cluster.md",
     "CLUSTERS/Спринт 1-cluster.md",
@@ -201,7 +203,6 @@
     "CLUSTERS/Спринт 1-cluster/vector.md",
     "Практикум.md",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций/tie.md",
-    "CLUSTERS/Спринт 2-cluster/Класс/Конструктор.md",
     "CLUSTERS/Спринт 2-cluster/Класс/struct.md",
     "CLUSTERS/Спринт 2-cluster/Класс.md",
     "CLUSTERS/Спринт 3-cluster/Лямбда функции.md",
@@ -211,7 +212,6 @@
     "CLUSTERS/Спринт 1-cluster",
     "Спринт 2.md",
     "CLUSTERS/Спринт 2-cluster/Класс/п.md",
-    "CLUSTERS/Спринт 2-cluster/с.md",
     "CLUSTERS/Спринт 2-cluster/Класс",
     "CLUSTERS/Спринт 3-cluster/Перегрузка операций",
     "CLUSTERS/Спринт 2-cluster",

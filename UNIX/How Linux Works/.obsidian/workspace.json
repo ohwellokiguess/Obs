@@ -8,73 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "653bee7d660d10db",
+            "id": "a32204599bbe120e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
+                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/more less.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cd"
-            }
-          },
-          {
-            "id": "b376b1f236aea4a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mkdir"
-            }
-          },
-          {
-            "id": "4763a526fc308076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "echo"
-            }
-          },
-          {
-            "id": "54f2005089927019",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intermediate commands"
-            }
-          },
-          {
-            "id": "233d31befb2d89cf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "more less"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,42 +170,43 @@
       "cluster:Create new cluster": false
     }
   },
-  "active": "233d31befb2d89cf",
+  "active": "a32204599bbe120e",
   "lastOpenFiles": [
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/ls.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/grep.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cat.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cp.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/mv.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/rm.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/touch.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/rmdir.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Shell manipulation/chsh.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Shell manipulation.md",
     "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/sort.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/pwd.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/more less.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/head tail.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/grep.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/find.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/file.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands/diff.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/rmdir.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/mkdir.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands/cd.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/touch.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/rm.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/mv.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/ls.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/echo.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cp.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands/cat.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Shell manipulation",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands.md",
+    "CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands",
     "CLUSTERS/Chapter 1 - Basics -cluster/Directory commands",
     "CLUSTERS/Chapter 1 - Basics -cluster/basic commands/g.md",
     "CLUSTERS/Chapter 1 - Basics -cluster/Basic commands",
     "CLUSTERS/basic commands-cluster.md",
     "CLUSTERS/Chapter 1 - Basics -cluster",
-    "CLUSTERS/basic commands-cluster/ls.md",
     "CLUSTERS/basic commands-cluster",
-    "CLUSTERS/Chapter 1 - Basics -cluster.md",
-    "CLUSTERS/basic commands-cluster/s.md",
     "CLUSTERS/Chapter 1 - Basics -cluster/basic commands-cluster",
     "Pasted image 20251020223119.png",
-    "CLUSTERS/Chapter 1 - Basics -cluster/1.1.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/1.1/1.2.md",
     "CLUSTERS/Chapter 1 - Basics -cluster/1.1",
-    "1.2.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/1.1/cat.md",
-    "CLUSTERS/Chapter 1 - Basics -cluster/1.2.md",
-    "CLUSTERS/First-cluster.md",
-    "Welcome.md",
     "CLUSTERS",
     "ORPHANS"
   ]

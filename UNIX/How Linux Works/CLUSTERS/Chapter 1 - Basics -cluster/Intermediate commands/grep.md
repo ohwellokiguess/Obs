@@ -5,6 +5,10 @@ parent: "[[CLUSTERS/Chapter 1 - Basics -cluster/Intermediate commands|Intermedia
 generation: 2
 ---
 
-| command | option | argument         |                                                                         |
-| :------ | :----- | ---------------- | ----------------------------------------------------------------------- |
-| grep    |        | *pattern* *path* | prints the lines from files or input stream that matches the expression |
+| command | option | argument         |                                                                  |
+| :------ | :----- | ---------------- | ---------------------------------------------------------------- |
+| grep    |        | *pattern* *path* | prints the lines from files or input that matches the expression |
+| grep    | -i     | *pattern* *path* | case insensitive                                                 |
+| grep    | -v     | *pattern* *path* | prints all except pattern                                        |
+
+
